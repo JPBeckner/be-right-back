@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/be-right-back/static/css/main.57203964.css",
+    "main.js": "/be-right-back/static/js/main.b6a8168a.js",
+    "static/js/787.f892c2b7.chunk.js": "/be-right-back/static/js/787.f892c2b7.chunk.js",
+    "static/media/GameleonSANS.ttf": "/be-right-back/static/media/GameleonSANS.18154dc6a3e20462c6a9.ttf",
+    "index.html": "/be-right-back/index.html",
+    "main.57203964.css.map": "/be-right-back/static/css/main.57203964.css.map",
+    "main.b6a8168a.js.map": "/be-right-back/static/js/main.b6a8168a.js.map",
+    "787.f892c2b7.chunk.js.map": "/be-right-back/static/js/787.f892c2b7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.57203964.css",
+    "static/js/main.b6a8168a.js"
+  ]
+}
