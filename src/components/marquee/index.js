@@ -9,7 +9,7 @@ function Marquee({backgroundColor, color}) {
       style={{ "backgroundColor": backgroundColor, "color": color }}
     >
         <p>
-          {t("message")}
+          { t("message") }
         </p>
     </div>
   );
