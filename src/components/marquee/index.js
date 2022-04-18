@@ -1,7 +1,7 @@
 import "./Marquee.css";
 import { t } from "i18next";
 
-function Marquee({backgroundColor, color}) {
+function Marquee({ backgroundColor, color }) {
 
   return (
     <div 
