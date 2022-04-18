@@ -7,8 +7,8 @@ function App() {
   return (
     <div className="App">
       <Marquee 
-      backgroundColor={defaultBackgroundColor} 
-      color={defaultFontColor} 
+        backgroundColor={defaultBackgroundColor} 
+        color={defaultFontColor} 
       />
     </div>
   );
