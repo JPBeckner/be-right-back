@@ -5,10 +5,8 @@ function Marquee({backgroundColor, color}) {
 
   return (
     <div 
-    className="marquee"
-    style={{ "backgroundColor": backgroundColor, "color": color }}
-    // background-color={backgroundColor}
-    // color={color}
+      className="marquee"
+      style={{ "backgroundColor": backgroundColor, "color": color }}
     >
         <p>
           {t("message")}
