@@ -1,7 +1,7 @@
-const br = {
+const pt = {
     "translation": {
         "message": "Volto Logo"
     }
 }
 
-export default br;
+export default pt;
