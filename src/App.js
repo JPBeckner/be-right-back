@@ -1,15 +1,12 @@
-import Marquee from "./components/marquee";
-
-const defaultBackgroundColor = "#333"
-const defaultFontColor = "#a4f644"
+import Base from "./layouts/base"
+import { ChakraProvider } from "@chakra-ui/react"
 
 function App() {
   return (
     <div className="App">
-      <Marquee 
-        backgroundColor={defaultBackgroundColor} 
-        color={defaultFontColor} 
-      />
+      <ChakraProvider>
+        <Base/>
+      </ChakraProvider>
     </div>
   );
 }
