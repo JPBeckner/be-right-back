@@ -4,10 +4,15 @@ import fr from "./fr/fr";
 import ro from "./ro/ro";
 
 const resources = {
-    en,
-    pt,
-    fr,
-    ro
+    "en": en,
+    "en-US": en,
+    "pt": pt,
+    "pt-BR": pt,
+    "pt-PT": pt,
+    "fr": fr,
+    "fr-FR": fr,
+    "ro": ro,
+    "ro-RO": ro
 };
 
 export default resources;
